@@ -1,3 +1,17 @@
+.. |date| date::
+.. |time| date:: %H:%M
+.. header:: vNextCloud : |date| |time|
+.. The ### directives are processed by rst2pdf.
+.. footer:: Page ###Page### of ###Total###
+
+.. sectnum ::
+
+.. contents:: Table of Contents
+
+.. raw:: pdf
+
+    PageBreak
+
 =============
 vnextcloud.py
 =============
