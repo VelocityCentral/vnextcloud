@@ -1,0 +1,1043 @@
+2024-07-10|13:06:43|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-10|14:02:21|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-10|14:15:28|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-10|14:15:28|main.py|ownerpassword|DEBUG|Extracted sillypassword as passwd for user rayb
+2024-07-10|14:16:29|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-10|14:16:29|main.py|ownerpassword|DEBUG|Extracted sillypassword as passwd for user rayb
+2024-07-10|14:19:45|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-10|14:19:45|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|14:19:45|onxtcld.py|__init__|ERROR|Failed to Connect : badurl
+2024-07-10|14:19:46|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-10|14:19:46|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-10|14:19:47|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:19:48|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:19:48|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-10|14:19:49|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:19:50|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|14:19:50|onxtcld.py|__create_public_share|INFO|New public share required
+2024-07-10|14:19:51|onxtcld.py|__create_public_share|INFO|New Public Share Created https://nextcloud189.velocityglobal.co.nz/index.php/s/gHDdPMnqefMoDoq
+2024-07-10|14:19:51|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|14:19:52|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:19:53|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:19:53|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-10|14:19:53|onxtcld.py|add_to_csv_file|DEBUG|Adding file to data log.
+2024-07-10|14:19:54|onxtcld.py|__set_fileid_from_path|ERROR|Could not determine File id.  get_file returned None for path /unknownfolder/unkownfile.pdf
+2024-07-10|14:19:56|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|14:19:57|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:19:58|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|14:19:59|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:20:00|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|14:20:01|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:20:02|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:20:02|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/gHDdPMnqefMoDoq
+2024-07-10|14:33:01|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-10|14:33:02|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|14:33:02|onxtcld.py|__init__|ERROR|Failed to Connect : badurl
+2024-07-10|14:33:02|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-10|14:33:03|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-10|14:33:05|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:33:08|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:33:08|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-10|14:33:10|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:33:12|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|14:33:12|onxtcld.py|__create_public_share|INFO|New public share required
+2024-07-10|14:33:14|onxtcld.py|__create_public_share|INFO|New Public Share Created https://nextcloud189.velocityglobal.co.nz/index.php/s/EfJZ8rH4SYf7KzM
+2024-07-10|14:33:16|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|14:33:18|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:33:20|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:33:20|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-10|14:33:20|onxtcld.py|add_to_csv_file|DEBUG|Adding file to data log.
+2024-07-10|14:33:22|onxtcld.py|__set_fileid_from_path|ERROR|Could not determine File id.  get_file returned None for path /unknownfolder/unkownfile.pdf
+2024-07-10|14:33:26|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|14:33:30|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:33:32|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|14:33:34|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:33:36|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|14:33:38|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:33:40|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:33:40|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/EfJZ8rH4SYf7KzM
+2024-07-10|14:33:42|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:33:44|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|14:33:44|onxtcld.py|__create_public_share|INFO|New public share required
+2024-07-10|14:33:46|onxtcld.py|__create_public_share|INFO|New Public Share Created https://nextcloud189.velocityglobal.co.nz/index.php/s/smngjtB6fYAEjns
+2024-07-10|14:33:46|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-10|14:33:46|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-10|14:33:47|onxtcld.py|__get_pronto_token|ERROR|Attempt to get token resulted in a 503 response
+2024-07-10|14:33:49|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:33:51|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:33:51|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/EfJZ8rH4SYf7KzM
+2024-07-10|14:33:51|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-10|14:33:51|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-10|14:33:51|onxtcld.py|__get_pronto_token|ERROR|Attempt to get token resulted in a 503 response
+2024-07-10|14:36:37|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-10|14:36:39|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|14:36:39|onxtcld.py|__init__|ERROR|Failed to Connect : badurl
+2024-07-10|14:36:40|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-10|14:36:44|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-10|14:36:51|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:36:58|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:36:58|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-10|14:37:05|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:37:11|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:37:11|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/EfJZ8rH4SYf7KzM
+2024-07-10|14:37:18|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|14:37:25|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:37:32|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:37:32|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-10|14:37:32|onxtcld.py|add_to_csv_file|DEBUG|Adding file to data log.
+2024-07-10|14:37:39|onxtcld.py|__set_fileid_from_path|ERROR|Could not determine File id.  get_file returned None for path /unknownfolder/unkownfile.pdf
+2024-07-10|14:37:52|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|14:38:06|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:38:13|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|14:38:20|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:38:27|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|14:38:34|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:38:40|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:38:40|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/EfJZ8rH4SYf7KzM
+2024-07-10|14:38:47|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:38:54|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:38:54|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/smngjtB6fYAEjns
+2024-07-10|14:38:54|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-10|14:38:54|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-10|14:38:54|onxtcld.py|__get_pronto_token|ERROR|Attempt to get token resulted in a 503 response
+2024-07-10|14:38:54|onxtcld.py|__get_pronto_token|ERROR|url was https://raydemo.velocityglobal.co.nz:8440/pronto/rest/sat./login
+2024-07-10|14:39:01|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:39:08|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:39:08|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/EfJZ8rH4SYf7KzM
+2024-07-10|14:39:08|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-10|14:39:08|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-10|14:39:08|onxtcld.py|__get_pronto_token|ERROR|Attempt to get token resulted in a 503 response
+2024-07-10|14:39:08|onxtcld.py|__get_pronto_token|ERROR|url was https://raydemo.velocityglobal.co.nz:8440/pronto/rest/sat./login
+2024-07-10|14:41:36|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-10|14:41:43|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|14:41:43|onxtcld.py|__init__|ERROR|Failed to Connect : badurl
+2024-07-10|14:41:50|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-10|14:42:03|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-10|14:42:28|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:42:54|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:42:54|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-10|14:43:19|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:43:45|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:43:45|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/EfJZ8rH4SYf7KzM
+2024-07-10|14:44:10|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|14:44:35|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:45:01|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:45:01|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-10|14:45:01|onxtcld.py|add_to_csv_file|DEBUG|Adding file to data log.
+2024-07-10|14:45:26|onxtcld.py|__set_fileid_from_path|ERROR|Could not determine File id.  get_file returned None for path /unknownfolder/unkownfile.pdf
+2024-07-10|14:46:17|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|14:47:08|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:47:33|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|14:47:59|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:48:24|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|14:48:50|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:49:15|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:49:15|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/EfJZ8rH4SYf7KzM
+2024-07-10|14:49:41|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:50:06|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:50:06|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/smngjtB6fYAEjns
+2024-07-10|14:50:06|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-10|14:50:06|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-10|14:50:06|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:10cb3cdd3843e4e94e394f0a509e8a7334c85d828875ec4e804eb85046aad6d59db53f689c237a025ca8b4bf09c833358ec28082863c9e99b697af751e3f661b:965d72698064175ab1b89555c683ea250fa49d7e314ead33
+2024-07-10|14:50:06|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-10|14:50:06|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-10|14:50:06|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_shared_via_create_share_flag.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>10</seq></ResponseFields></root>
+
+2024-07-10|14:50:06|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-10|14:50:06|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-10|14:50:06|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-10|14:50:06|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-10|14:50:06|onxtcld.py|add_pronto_quicklink|INFO|Sequence 10
+2024-07-10|14:50:06|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-10|14:50:32|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|14:50:57|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|14:50:57|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/EfJZ8rH4SYf7KzM
+2024-07-10|14:50:57|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-10|14:50:57|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-10|14:50:57|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:872731d42ef717f100089ff74e2b62968cfa48032c64000d19a938b9099b6b4c2c4cfec99a55a6908e6f6f73fbb6dfd549f9dcc15de00c679918c2a67cb990a1:e9b7112081743ca1598f4738023f1d6937f2d4d0113063b7
+2024-07-10|14:50:57|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-10|14:50:58|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-10|14:50:58|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/No Public Share.pdf</Response_1><company></company><object></object><keys></keys><seq>0</seq></ResponseFields></root>
+
+2024-07-10|14:50:58|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-10|14:50:58|onxtcld.py|add_pronto_quicklink|INFO|Company None
+2024-07-10|14:50:58|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : None
+2024-07-10|14:50:58|onxtcld.py|add_pronto_quicklink|INFO|Keys None
+2024-07-10|14:50:58|onxtcld.py|add_pronto_quicklink|INFO|Sequence 0
+2024-07-10|14:50:58|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-10|15:01:28|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-10|15:01:54|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|15:01:54|onxtcld.py|__init__|ERROR|Failed to Connect : badurl
+2024-07-10|15:02:19|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-10|15:02:44|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-10|15:03:10|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|15:03:35|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|15:03:35|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-10|15:04:01|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|15:04:26|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|15:04:26|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/EfJZ8rH4SYf7KzM
+2024-07-10|15:04:52|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|15:05:17|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|15:05:43|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|15:05:43|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-10|15:05:43|onxtcld.py|add_to_csv_file|DEBUG|Adding file to data log.
+2024-07-10|15:06:08|onxtcld.py|__set_fileid_from_path|ERROR|Could not determine File id.  get_file returned None for path /unknownfolder/unkownfile.pdf
+2024-07-10|15:06:59|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-10|15:07:50|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|15:08:15|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|15:08:41|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|15:09:06|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|15:09:31|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|15:09:57|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|15:09:57|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/EfJZ8rH4SYf7KzM
+2024-07-10|15:10:22|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|15:10:48|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|15:10:48|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/smngjtB6fYAEjns
+2024-07-10|15:10:48|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-10|15:10:48|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-10|15:10:48|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:535fe75bc8fafeef9a45a6c9249bc8e651a26a3a9da2ecccf61943bb43ae5397b6935aef394799184b66c23d62e81ed7a07ce0ee8d4f1872fceed39b56c6384e:9be9664258bd08b8df1ffab6b37acf5a694f357dfe2f0f22
+2024-07-10|15:10:48|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-10|15:10:48|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-10|15:10:48|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_shared_via_create_share_flag.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>20</seq></ResponseFields></root>
+
+2024-07-10|15:10:48|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-10|15:10:48|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-10|15:10:48|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-10|15:10:48|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-10|15:10:48|onxtcld.py|add_pronto_quicklink|INFO|Sequence 20
+2024-07-10|15:10:48|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-10|15:11:14|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|15:11:39|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-10|15:11:39|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/EfJZ8rH4SYf7KzM
+2024-07-10|15:11:39|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-10|15:11:39|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-10|15:11:39|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:762bee8d8d5433b137d905a57dab9db16a04d7bb27745e75ae3e3d487b11ce9bcc2c4d3252ee585910cd5337f5f3a50bf10a35624fbd218b24ca8b58b17c3f12:6c734d464b4e5fb3367ce042f1f18735e826db2d5d2960f7
+2024-07-10|15:11:39|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-10|15:11:39|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-10|15:11:39|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/No Public Share.pdf</Response_1><company></company><object></object><keys></keys><seq>0</seq></ResponseFields></root>
+
+2024-07-10|15:11:39|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-10|15:11:39|onxtcld.py|add_pronto_quicklink|INFO|Company None
+2024-07-10|15:11:39|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : None
+2024-07-10|15:11:39|onxtcld.py|add_pronto_quicklink|INFO|Keys None
+2024-07-10|15:11:39|onxtcld.py|add_pronto_quicklink|INFO|Sequence 0
+2024-07-10|15:11:39|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-10|15:12:05|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|15:12:30|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|15:12:30|onxtcld.py|__create_public_share|INFO|New public share required
+2024-07-10|15:12:56|onxtcld.py|__create_public_share|INFO|New Public Share Created https://nextcloud189.velocityglobal.co.nz/index.php/s/R7nLj9YMfWiePPm
+2024-07-10|15:12:56|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-10|15:12:56|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-10|15:12:56|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:dc4184516ccab791e248e8982dee12d1a02df52a1191f8620394aa533fbc81fbf3566cf387418c9a15c073b8e5f6ef30ab2925f7922a3955d6e928da36f4d67e:c01fbedc45705481c3ab9fc1f7b26f6f55fcabbdbe8a2cff
+2024-07-10|15:12:56|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-10|15:12:56|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-10|15:12:56|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_shared_via_public_keyword.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>30</seq></ResponseFields></root>
+
+2024-07-10|15:12:56|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-10|15:12:56|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-10|15:12:56|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-10|15:12:56|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-10|15:12:56|onxtcld.py|add_pronto_quicklink|INFO|Sequence 30
+2024-07-10|15:12:56|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-10|15:13:21|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-10|15:13:47|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-10|15:13:47|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-10|15:13:47|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-10|15:13:47|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:6c1bd2b93160ebfba6d44e8882df83161cf2a96685f8cfa94e66fcfdf52a59916cf10ddb57417884f4e76217a4e0e0603b84fb71c4949a035c786e77ed8f8f30:39f515bd14ba2d298e6c02d8bcc141a3177bce7055b81373
+2024-07-10|15:13:47|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-10|15:13:47|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-10|15:13:47|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_no_share.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>40</seq></ResponseFields></root>
+
+2024-07-10|15:13:47|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-10|15:13:47|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-10|15:13:47|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-10|15:13:47|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-10|15:13:47|onxtcld.py|add_pronto_quicklink|INFO|Sequence 40
+2024-07-10|15:13:47|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-11|07:29:59|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-11|07:29:59|testcases.py|test001|DEBUG|start of Test encryption.test001 : str(object='') -> str
+str(bytes_or_buffer[, encoding[, errors]]) -> str
+
+Create a new string object from the given object. If encoding or
+errors is specified, then the object must expose a data buffer
+that will be decoded using the given encoding and error handler.
+Otherwise, returns the result of object.__str__() (if defined)
+or repr(object).
+encoding defaults to sys.getdefaultencoding().
+errors defaults to 'strict'.
+2024-07-11|07:33:47|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-11|07:33:47|testcases.py|test001|DEBUG|start of Test encryption.test001 : Test an encryption produces the correct result
+2024-07-11|07:36:58|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-11|07:36:58|testcases.py|test001|DEBUG|start of Test encryption.test001 : Test an encryption produces the correct result
+2024-07-11|07:39:33|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-11|07:39:54|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-11|07:39:54|testcases.py|test001|DEBUG|start of Test encryption.test001
+2024-07-11|07:39:54|testcases.py|test002|DEBUG|start of Test encryption.test002
+2024-07-11|07:47:01|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-11|07:47:01|testcases.py|test001|DEBUG|start of Test encryption.test001
+2024-07-11|07:47:01|testcases.py|test002|DEBUG|start of Test encryption.test002
+2024-07-11|07:47:01|testcases.py|test003|DEBUG|start of Test encryption.test003
+2024-07-11|07:47:01|testcases.py|test004|DEBUG|start of Test encryption.test004
+2024-07-11|07:47:16|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-11|07:47:16|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-11|07:47:16|testcases.py|test001|DEBUG|start of Test RegressionSet.test001
+2024-07-11|07:47:16|onxtcld.py|__init__|ERROR|Failed to Connect : badurl
+2024-07-11|07:47:16|testcases.py|test002|DEBUG|start of Test RegressionSet.test002
+2024-07-11|07:47:17|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-11|07:47:17|testcases.py|test003|DEBUG|start of Test RegressionSet.test003
+2024-07-11|07:47:17|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-11|07:47:17|testcases.py|test004|DEBUG|start of Test RegressionSet.test004
+2024-07-11|07:47:18|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|07:47:19|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|07:47:19|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-11|07:47:19|testcases.py|test005|DEBUG|start of Test RegressionSet.test005
+2024-07-11|07:47:20|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|07:47:21|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-11|07:47:21|onxtcld.py|__create_public_share|INFO|New public share required
+2024-07-11|07:47:22|onxtcld.py|__create_public_share|INFO|New Public Share Created https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-11|07:47:22|testcases.py|test006|DEBUG|start of Test RegressionSet.test006
+2024-07-11|07:47:23|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-11|07:47:23|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|07:47:24|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|07:47:24|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-11|07:47:24|onxtcld.py|add_to_csv_file|DEBUG|Adding file to data log.
+2024-07-11|07:47:24|testcases.py|test007|DEBUG|start of Test RegressionSet.test007
+2024-07-11|07:47:25|onxtcld.py|__set_fileid_from_path|ERROR|Could not determine File id.  get_file returned None for path /unknownfolder/unkownfile.pdf
+2024-07-11|07:47:25|testcases.py|test008|DEBUG|start of Test RegressionSet.test008
+2024-07-11|07:47:26|testcases.py|test009|DEBUG|start of Test RegressionSet.test009
+2024-07-11|07:47:27|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-11|07:47:27|testcases.py|test010|DEBUG|start of Test RegressionSet.test010
+2024-07-11|07:47:28|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|07:47:29|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-11|07:47:29|testcases.py|test011|DEBUG|start of Test RegressionSet.test011
+2024-07-11|07:47:30|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|07:47:31|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-11|07:47:31|testcases.py|test012|DEBUG|start of Test RegressionSet.test012
+2024-07-11|07:47:32|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|07:47:33|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|07:47:33|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-11|07:47:33|testcases.py|test020|DEBUG|start of Test RegressionSet.test020
+2024-07-11|07:47:33|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|07:47:34|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-11|07:47:34|onxtcld.py|__create_public_share|INFO|New public share required
+2024-07-11|07:47:35|onxtcld.py|__create_public_share|INFO|New Public Share Created https://nextcloud189.velocityglobal.co.nz/index.php/s/E2Faxdq44GX3w7E
+2024-07-11|07:47:35|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-11|07:47:35|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-11|07:47:35|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:193ed1df878af0cefdff500090e0378105d366b2667f9f8a54fc46c9be2b253e1c216dd43dd42bf646cddf1ff23c8b89f0fbc72674b41ab59c6a6c8be3f05b32:383546b32afdf9a67b0a395b5cb8bf3531efc320eacc56c2
+2024-07-11|07:47:35|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-11|07:47:36|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-11|07:47:36|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_shared_via_create_share_flag.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>10</seq></ResponseFields></root>
+
+2024-07-11|07:47:36|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-11|07:47:36|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-11|07:47:36|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-11|07:47:36|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-11|07:47:36|onxtcld.py|add_pronto_quicklink|INFO|Sequence 10
+2024-07-11|07:47:36|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-11|07:47:36|testcases.py|test021|DEBUG|start of Test RegressionSet.test021
+2024-07-11|07:47:36|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|07:47:37|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|07:47:37|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-11|07:47:37|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-11|07:47:37|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-11|07:47:37|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:b03184b0535d4792edcac485913c7394fe8496f3b94fe42146a1e263c8a1ec782aefbf73d4ad2ef154f7cb607d1854353d3df8bb19c518de0b28a8aa293ebd91:bfbfadea3aea1a6babc2a936fce5aa164f800d6f5dd0bd89
+2024-07-11|07:47:37|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-11|07:47:38|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-11|07:47:38|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/No Public Share.pdf</Response_1><company></company><object></object><keys></keys><seq>0</seq></ResponseFields></root>
+
+2024-07-11|07:47:38|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-11|07:47:38|onxtcld.py|add_pronto_quicklink|INFO|Company None
+2024-07-11|07:47:38|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : None
+2024-07-11|07:47:38|onxtcld.py|add_pronto_quicklink|INFO|Keys None
+2024-07-11|07:47:38|onxtcld.py|add_pronto_quicklink|INFO|Sequence 0
+2024-07-11|07:47:38|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-11|07:47:38|testcases.py|test022|DEBUG|start of Test RegressionSet.test022
+2024-07-11|07:47:38|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|07:47:39|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-11|07:47:39|onxtcld.py|__create_public_share|INFO|New public share required
+2024-07-11|07:47:40|onxtcld.py|__create_public_share|INFO|New Public Share Created https://nextcloud189.velocityglobal.co.nz/index.php/s/G7j7ifB6wDY3EGa
+2024-07-11|07:47:40|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-11|07:47:40|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-11|07:47:40|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:67496d702a9d62c0e5303ae7dec73b0c6f723e079048be5c3bc20e733818e418bb00d3ea6f88052d37ebe942c398b032c6018b6a1673ab9cc08fd686cef311d4:34739f8c62065903457e40474426a0550549e416ec881c6a
+2024-07-11|07:47:40|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-11|07:47:40|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-11|07:47:40|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_shared_via_public_keyword.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>20</seq></ResponseFields></root>
+
+2024-07-11|07:47:40|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-11|07:47:40|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-11|07:47:40|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-11|07:47:40|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-11|07:47:40|onxtcld.py|add_pronto_quicklink|INFO|Sequence 20
+2024-07-11|07:47:40|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-11|07:47:40|testcases.py|test023|DEBUG|start of Test RegressionSet.test023
+2024-07-11|07:47:41|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|07:47:42|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-11|07:47:42|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-11|07:47:42|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-11|07:47:42|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:af2b16e65b2b21f90f1ccddcd834a87544d0ebc9d0bb9d5c697154d881c32afde9a21566af87bba225a8bfcf81834b083ec2af4359684c17176d064751500d2b:ff9be2f33c6b449b53524bfd94a87170d731901179c6c799
+2024-07-11|07:47:42|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-11|07:47:42|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-11|07:47:42|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_no_share.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>30</seq></ResponseFields></root>
+
+2024-07-11|07:47:42|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-11|07:47:42|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-11|07:47:42|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-11|07:47:42|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-11|07:47:42|onxtcld.py|add_pronto_quicklink|INFO|Sequence 30
+2024-07-11|07:47:42|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-11|07:47:42|testcases.py|test001|DEBUG|start of Test encryption.test001
+2024-07-11|07:47:42|testcases.py|test002|DEBUG|start of Test encryption.test002
+2024-07-11|07:47:42|testcases.py|test003|DEBUG|start of Test encryption.test003
+2024-07-11|07:47:42|testcases.py|test004|DEBUG|start of Test encryption.test004
+2024-07-11|08:47:36|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-11|08:47:36|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-11|08:47:36|testcases.py|test001|DEBUG|start of Test RegressionSet.test001
+2024-07-11|08:47:36|onxtcld.py|__init__|ERROR|Failed to Connect : badurl
+2024-07-11|08:47:36|testcases.py|test002|DEBUG|start of Test RegressionSet.test002
+2024-07-11|08:47:37|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-11|08:47:37|testcases.py|test003|DEBUG|start of Test RegressionSet.test003
+2024-07-11|08:47:38|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-11|08:47:38|testcases.py|test004|DEBUG|start of Test RegressionSet.test004
+2024-07-11|08:47:40|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|08:47:42|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|08:47:42|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-11|08:47:42|testcases.py|test005|DEBUG|start of Test RegressionSet.test005
+2024-07-11|08:47:44|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|08:47:46|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|08:47:46|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-11|08:47:46|testcases.py|test006|DEBUG|start of Test RegressionSet.test006
+2024-07-11|08:47:48|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-11|08:47:50|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|08:47:53|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|08:47:53|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-11|08:47:53|onxtcld.py|add_to_csv_file|DEBUG|Adding file to data log.
+2024-07-11|08:47:53|testcases.py|test007|DEBUG|start of Test RegressionSet.test007
+2024-07-11|08:47:55|onxtcld.py|__set_fileid_from_path|ERROR|Could not determine File id.  get_file returned None for path /unknownfolder/unkownfile.pdf
+2024-07-11|08:47:55|testcases.py|test008|DEBUG|start of Test RegressionSet.test008
+2024-07-11|08:47:57|testcases.py|test009|DEBUG|start of Test RegressionSet.test009
+2024-07-11|08:47:59|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-11|08:48:01|testcases.py|test010|DEBUG|start of Test RegressionSet.test010
+2024-07-11|08:48:03|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|08:48:05|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-11|08:48:05|testcases.py|test011|DEBUG|start of Test RegressionSet.test011
+2024-07-11|08:48:07|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|08:48:09|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-11|08:48:09|testcases.py|test012|DEBUG|start of Test RegressionSet.test012
+2024-07-11|08:48:11|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|08:48:13|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|08:48:13|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-11|08:48:13|testcases.py|test020|DEBUG|start of Test RegressionSet.test020
+2024-07-11|08:48:15|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|08:48:17|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|08:48:17|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/E2Faxdq44GX3w7E
+2024-07-11|08:48:17|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-11|08:48:17|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-11|08:48:18|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:16a629b176c099a6c5da2910eca3a2b8eb21ab6265554e542b0b2551df1473153bb8f1525031314bc9d288a7c1f030becac17598dd84b1a9f81fe8ddd9307bd7:d1d1a81927a742ce240ddfc2ec4a7ef4f2fa5f8896fd8717
+2024-07-11|08:48:18|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-11|08:48:18|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-11|08:48:18|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_shared_via_create_share_flag.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>40</seq></ResponseFields></root>
+
+2024-07-11|08:48:18|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-11|08:48:18|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-11|08:48:18|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-11|08:48:18|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-11|08:48:18|onxtcld.py|add_pronto_quicklink|INFO|Sequence 40
+2024-07-11|08:48:18|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-11|08:48:18|testcases.py|test021|DEBUG|start of Test RegressionSet.test021
+2024-07-11|08:48:20|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|08:48:22|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|08:48:22|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-11|08:48:22|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-11|08:48:22|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-11|08:48:22|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:c7b16182e76d0dde3e68971a4bec0b8248d55aa31f259769be8877c23878294816b8ea10b11e1724354b9c8de47c38fd3f3d54c399915284b196439bfc07158a:be9b68c32d0cfbfac6fa501897f121d4206bcaaed73b4f02
+2024-07-11|08:48:22|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-11|08:48:22|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-11|08:48:22|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>10</Code><Message>Failed to assign Quicklink</Message></APIResponseStatus><ResponseFields><Response_1>fail: Object Not Determined</Response_1><company></company><object></object><keys></keys><seq>0</seq></ResponseFields></root>
+
+2024-07-11|08:48:22|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 10
+2024-07-11|08:48:22|onxtcld.py|add_pronto_quicklink|ERROR|API Response Error: 10
+2024-07-11|08:48:22|onxtcld.py|add_pronto_quicklink|ERROR|API Response Message: Failed to assign Quicklink
+2024-07-11|08:48:22|testcases.py|test022|DEBUG|start of Test RegressionSet.test022
+2024-07-11|08:48:24|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|08:48:26|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|08:48:26|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/G7j7ifB6wDY3EGa
+2024-07-11|08:48:26|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-11|08:48:26|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-11|08:48:26|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:afd07435735c2c7193ce5de45e5729f3d768dd5b282ce0ec5500d2f2a24683ad99494bb8c2bc0d109a52f32f1e900896699de2a0507f899949307cb0723db103:1bc8d48dacd59c455dccf504a05fd1155f87ec8c31791c85
+2024-07-11|08:48:26|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-11|08:48:26|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-11|08:48:26|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_shared_via_public_keyword.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>50</seq></ResponseFields></root>
+
+2024-07-11|08:48:26|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-11|08:48:26|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-11|08:48:26|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-11|08:48:26|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-11|08:48:26|onxtcld.py|add_pronto_quicklink|INFO|Sequence 50
+2024-07-11|08:48:26|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-11|08:48:26|testcases.py|test023|DEBUG|start of Test RegressionSet.test023
+2024-07-11|08:48:28|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|08:48:31|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-11|08:48:31|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-11|08:48:31|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-11|08:48:31|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:59c49732db026c59191e68cae1f1e1d157fab8baea3108723806be1305562fb3f6f58720561725f3e1a515b6c7456a75dddcd48442220a3f89bbb4a6cd528f3b:c585221996cb39a6d1edcb19959aac0b6fd9c2e90aa818bc
+2024-07-11|08:48:31|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-11|08:48:31|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-11|08:48:31|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_no_share.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>60</seq></ResponseFields></root>
+
+2024-07-11|08:48:31|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-11|08:48:31|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-11|08:48:31|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-11|08:48:31|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-11|08:48:31|onxtcld.py|add_pronto_quicklink|INFO|Sequence 60
+2024-07-11|08:48:31|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-11|08:48:31|testcases.py|test001|DEBUG|start of Test encryption.test001
+2024-07-11|08:48:31|testcases.py|test002|DEBUG|start of Test encryption.test002
+2024-07-11|08:48:31|testcases.py|test003|DEBUG|start of Test encryption.test003
+2024-07-11|08:48:31|testcases.py|test004|DEBUG|start of Test encryption.test004
+2024-07-11|14:21:37|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-11|14:21:39|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-11|14:21:39|testcases.py|test001|DEBUG|start of Test RegressionSet.test001
+2024-07-11|14:21:39|onxtcld.py|__init__|ERROR|Failed to Connect : badurl
+2024-07-11|14:21:39|testcases.py|test002|DEBUG|start of Test RegressionSet.test002
+2024-07-11|14:21:41|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-11|14:21:41|testcases.py|test003|DEBUG|start of Test RegressionSet.test003
+2024-07-11|14:21:44|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-11|14:21:44|testcases.py|test004|DEBUG|start of Test RegressionSet.test004
+2024-07-11|14:21:51|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|14:21:58|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|14:21:58|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-11|14:21:58|testcases.py|test005|DEBUG|start of Test RegressionSet.test005
+2024-07-11|14:22:05|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|14:22:12|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|14:22:12|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-11|14:22:12|testcases.py|test006|DEBUG|start of Test RegressionSet.test006
+2024-07-11|14:22:19|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-11|14:22:25|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|14:22:32|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|14:22:32|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-11|14:22:32|onxtcld.py|add_to_csv_file|DEBUG|Adding file to data log.
+2024-07-11|14:22:32|testcases.py|test007|DEBUG|start of Test RegressionSet.test007
+2024-07-11|14:22:39|onxtcld.py|__set_fileid_from_path|ERROR|Could not determine File id.  get_file returned None for path /unknownfolder/unkownfile.pdf
+2024-07-11|14:22:39|testcases.py|test008|DEBUG|start of Test RegressionSet.test008
+2024-07-11|14:22:46|testcases.py|test009|DEBUG|start of Test RegressionSet.test009
+2024-07-11|14:22:53|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-11|14:22:59|testcases.py|test010|DEBUG|start of Test RegressionSet.test010
+2024-07-11|14:23:06|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|14:23:13|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-11|14:23:13|testcases.py|test011|DEBUG|start of Test RegressionSet.test011
+2024-07-11|14:23:20|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|14:23:27|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-11|14:23:27|testcases.py|test012|DEBUG|start of Test RegressionSet.test012
+2024-07-11|14:23:34|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|14:23:41|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|14:23:41|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-11|14:23:41|testcases.py|test020|DEBUG|start of Test RegressionSet.test020
+2024-07-11|14:23:47|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|14:23:54|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|14:23:54|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/E2Faxdq44GX3w7E
+2024-07-11|14:23:54|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-11|14:23:54|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-11|14:23:55|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:44f60006396866fdc2bdc9edc1963fbd0cfc832ebec2cbe0d66fd88c06055d30bbc042f49f818d114aafcc89d9914177218467b82990904cd06a819de3c8f19d:78d8a0497cd03ad38edc99b313922c8d144b0e0efa476834
+2024-07-11|14:23:55|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-11|14:23:55|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-11|14:23:55|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_shared_via_create_share_flag.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>70</seq></ResponseFields></root>
+
+2024-07-11|14:23:55|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-11|14:23:55|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-11|14:23:55|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-11|14:23:55|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-11|14:23:55|onxtcld.py|add_pronto_quicklink|INFO|Sequence 70
+2024-07-11|14:23:55|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-11|14:23:55|testcases.py|test021|DEBUG|start of Test RegressionSet.test021
+2024-07-11|14:24:01|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|14:24:08|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|14:24:08|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-11|14:24:08|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-11|14:24:08|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-11|14:24:08|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:a8588a61aa19188aa8a789cc5e94ab6c44b0d571048f0691385fda5fd60b4f8c4a0975b96d33fda2f7bb547ee1941abe0955190087528839a7d8abe04570331a:bc4416afe99d4f276552ff541fc4a5b41a9dccbd3fc16d42
+2024-07-11|14:24:08|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-11|14:24:09|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-11|14:24:09|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>10</Code><Message>Failed to assign Quicklink</Message></APIResponseStatus><ResponseFields><Response_1>fail: Object Not Determined</Response_1><company></company><object></object><keys></keys><seq>0</seq></ResponseFields></root>
+
+2024-07-11|14:24:09|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 10
+2024-07-11|14:24:09|onxtcld.py|add_pronto_quicklink|ERROR|API Response Error: 10
+2024-07-11|14:24:09|onxtcld.py|add_pronto_quicklink|ERROR|API Response Message: Failed to assign Quicklink
+2024-07-11|14:24:09|testcases.py|test022|DEBUG|start of Test RegressionSet.test022
+2024-07-11|14:24:15|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|14:24:22|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-11|14:24:22|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/G7j7ifB6wDY3EGa
+2024-07-11|14:24:22|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-11|14:24:22|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-11|14:24:22|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:eef8fcf941d1d4418dc6cb9907489314f14b40789550e51b43b1e214b30c2011b7347537e742b5b40a3f3b17ddc918e754c97b89aef0e536e6651f5ca7eafe3e:70570f3a5d443e90e797606d00817e50679c718136f688f6
+2024-07-11|14:24:22|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-11|14:24:22|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-11|14:24:22|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_shared_via_public_keyword.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>80</seq></ResponseFields></root>
+
+2024-07-11|14:24:22|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-11|14:24:22|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-11|14:24:22|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-11|14:24:22|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-11|14:24:22|onxtcld.py|add_pronto_quicklink|INFO|Sequence 80
+2024-07-11|14:24:22|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-11|14:24:22|testcases.py|test023|DEBUG|start of Test RegressionSet.test023
+2024-07-11|14:24:29|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-11|14:24:36|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-11|14:24:36|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-11|14:24:36|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-11|14:24:36|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:9ddd7808e547cbff0366d0754b9d4dd2e29062639d5af563708283aa78011c0f6dbe0367841467fa86af8390e677e3b7f7f27d040d300f878b5f31ee7ed77a81:fb7540378801cda86f100ece201f305c96839943b84b9894
+2024-07-11|14:24:36|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-11|14:24:36|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-11|14:24:36|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_no_share.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>90</seq></ResponseFields></root>
+
+2024-07-11|14:24:36|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-11|14:24:36|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-11|14:24:36|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-11|14:24:36|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-11|14:24:36|onxtcld.py|add_pronto_quicklink|INFO|Sequence 90
+2024-07-11|14:24:36|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-11|14:24:36|testcases.py|test001|DEBUG|start of Test encryption.test001
+2024-07-11|14:24:36|testcases.py|test002|DEBUG|start of Test encryption.test002
+2024-07-11|14:24:36|testcases.py|test003|DEBUG|start of Test encryption.test003
+2024-07-11|14:24:36|testcases.py|test004|DEBUG|start of Test encryption.test004
+2024-07-12|07:56:36|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-12|07:56:37|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-12|07:56:37|testcases.py|test001|DEBUG|start of Test RegressionSet.test001
+2024-07-12|07:56:37|onxtcld.py|__init__|ERROR|Failed to Connect : badurl
+2024-07-12|07:56:37|testcases.py|test002|DEBUG|start of Test RegressionSet.test002
+2024-07-12|07:56:37|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-12|07:56:37|testcases.py|test003|DEBUG|start of Test RegressionSet.test003
+2024-07-12|07:56:38|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-12|07:56:38|testcases.py|test004|DEBUG|start of Test RegressionSet.test004
+2024-07-12|07:56:39|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-12|07:56:40|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-12|07:56:40|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-12|07:56:40|testcases.py|test005|DEBUG|start of Test RegressionSet.test005
+2024-07-12|07:56:41|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-12|07:56:42|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-12|07:56:42|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-12|07:56:42|testcases.py|test006|DEBUG|start of Test RegressionSet.test006
+2024-07-12|07:56:42|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-12|07:56:43|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-12|07:56:44|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-12|07:56:44|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-12|07:56:44|onxtcld.py|add_to_csv_file|DEBUG|Adding file to data log.
+2024-07-12|07:56:44|testcases.py|test007|DEBUG|start of Test RegressionSet.test007
+2024-07-12|07:56:45|onxtcld.py|__set_fileid_from_path|ERROR|Could not determine File id.  get_file returned None for path /unknownfolder/unkownfile.pdf
+2024-07-12|07:56:45|testcases.py|test008|DEBUG|start of Test RegressionSet.test008
+2024-07-12|07:56:46|testcases.py|test009|DEBUG|start of Test RegressionSet.test009
+2024-07-12|07:56:46|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-12|07:56:47|testcases.py|test010|DEBUG|start of Test RegressionSet.test010
+2024-07-12|07:56:48|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-12|07:56:49|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-12|07:56:49|testcases.py|test011|DEBUG|start of Test RegressionSet.test011
+2024-07-12|07:56:50|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-12|07:56:51|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-12|07:56:51|testcases.py|test012|DEBUG|start of Test RegressionSet.test012
+2024-07-12|07:56:51|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-12|07:56:52|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-12|07:56:52|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-12|07:56:52|testcases.py|test020|DEBUG|start of Test RegressionSet.test020
+2024-07-12|07:56:53|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-12|07:56:54|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-12|07:56:54|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/E2Faxdq44GX3w7E
+2024-07-12|07:56:54|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-12|07:56:54|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-12|07:56:54|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:d3b218aa2903e35fac6c1c8e5fcebdcbe86e44c420bace9b2990efe9b8ee9baeac671cf5b6b1e8bcaaaf7b934e5297e5d87381a790d817f1f72444be420185b5:2a256c685ff83eb0416c8ae73a6ebd914b2f35c11dd3a808
+2024-07-12|07:56:54|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-12|07:56:54|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-12|07:56:54|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_shared_via_create_share_flag.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>100</seq></ResponseFields></root>
+
+2024-07-12|07:56:54|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-12|07:56:54|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-12|07:56:54|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-12|07:56:54|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-12|07:56:54|onxtcld.py|add_pronto_quicklink|INFO|Sequence 100
+2024-07-12|07:56:54|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-12|07:56:54|testcases.py|test021|DEBUG|start of Test RegressionSet.test021
+2024-07-12|07:56:55|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-12|07:56:56|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-12|07:56:56|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-12|07:56:56|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-12|07:56:56|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-12|07:56:56|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:16595a239522e88ccdd8518bd76e04c30c571c9d5852dbfedcdb87328ab0ae390fde1ad891125825c8c5f516a0d42bfcbc93d0a8a190cb60df9bd0dc9458fa6a:e480bf6dab814c374004e43bc8bb661e1cb3fb2ec17c96f0
+2024-07-12|07:56:56|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-12|07:56:56|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-12|07:56:57|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>10</Code><Message>Failed to assign Quicklink</Message></APIResponseStatus><ResponseFields><Response_1>fail: Object Not Determined</Response_1><company></company><object></object><keys></keys><seq>0</seq></ResponseFields></root>
+
+2024-07-12|07:56:57|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 10
+2024-07-12|07:56:57|onxtcld.py|add_pronto_quicklink|ERROR|API Response Error: 10
+2024-07-12|07:56:57|onxtcld.py|add_pronto_quicklink|ERROR|API Response Message: Failed to assign Quicklink
+2024-07-12|07:56:57|testcases.py|test022|DEBUG|start of Test RegressionSet.test022
+2024-07-12|07:56:57|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-12|07:56:58|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-12|07:56:58|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/G7j7ifB6wDY3EGa
+2024-07-12|07:56:58|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-12|07:56:58|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-12|07:56:58|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:db70b18e5ef1d4d22ab8866a82de7c82b39c60e0fe2780afbef95ca37fde12e8ed83ebad78104b055c583fe90a7eba6cfae1f6589e35a75ecac86cfb08eb96e8:0df8eebe24ab398969b2fb6cdde8aa54263bb3f00ec9236c
+2024-07-12|07:56:58|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-12|07:56:58|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-12|07:56:58|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_shared_via_public_keyword.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>110</seq></ResponseFields></root>
+
+2024-07-12|07:56:58|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-12|07:56:58|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-12|07:56:58|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-12|07:56:58|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-12|07:56:58|onxtcld.py|add_pronto_quicklink|INFO|Sequence 110
+2024-07-12|07:56:58|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-12|07:56:58|testcases.py|test023|DEBUG|start of Test RegressionSet.test023
+2024-07-12|07:56:59|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-12|07:57:00|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-12|07:57:00|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-12|07:57:00|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-12|07:57:00|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:1d60722d97c6b55733a303f688ffe11937c5284b9a84ca89fabd22d332a8ba66c3c3c7dfb138679de167ed967c4b999606eeed70272e3354352035831c12d480:b20711b58ed0cfcf1f57e2fcc9754539b3e42416abbf2a4b
+2024-07-12|07:57:00|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-12|07:57:00|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-12|07:57:00|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_no_share.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>120</seq></ResponseFields></root>
+
+2024-07-12|07:57:00|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-12|07:57:00|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-12|07:57:00|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-12|07:57:00|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-12|07:57:00|onxtcld.py|add_pronto_quicklink|INFO|Sequence 120
+2024-07-12|07:57:00|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-12|07:57:00|testcases.py|test001|DEBUG|start of Test encryption.test001
+2024-07-12|07:57:00|testcases.py|test002|DEBUG|start of Test encryption.test002
+2024-07-12|07:57:00|testcases.py|test003|DEBUG|start of Test encryption.test003
+2024-07-12|07:57:00|testcases.py|test004|DEBUG|start of Test encryption.test004
+2024-07-12|09:47:02|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-12|09:47:02|testcases.py|test001|DEBUG|start of Test encryption.test001
+2024-07-12|09:47:02|testcases.py|test002|DEBUG|start of Test encryption.test002
+2024-07-12|09:47:02|testcases.py|test003|DEBUG|start of Test encryption.test003
+2024-07-12|09:47:02|testcases.py|test004|DEBUG|start of Test encryption.test004
+2024-07-12|09:48:47|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-12|09:48:47|testcases.py|test001|DEBUG|start of Test encryption.test001
+2024-07-12|09:48:47|testcases.py|test002|DEBUG|start of Test encryption.test002
+2024-07-12|09:48:47|testcases.py|test003|DEBUG|start of Test encryption.test003
+2024-07-12|09:48:47|testcases.py|test004|DEBUG|start of Test encryption.test004
+2024-07-12|11:15:57|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-12|11:15:57|testcases.py|test001|DEBUG|start of Test encryption.test001
+2024-07-12|11:15:57|testcases.py|test002|DEBUG|start of Test encryption.test002
+2024-07-12|11:15:57|testcases.py|test003|DEBUG|start of Test encryption.test003
+2024-07-12|11:15:57|testcases.py|test004|DEBUG|start of Test encryption.test004
+2024-07-12|11:45:20|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-12|11:45:20|testcases.py|test001|DEBUG|start of Test encryption.test001
+2024-07-12|11:45:20|testcases.py|test002|DEBUG|start of Test encryption.test002
+2024-07-12|11:45:20|testcases.py|test003|DEBUG|start of Test encryption.test003
+2024-07-12|11:45:20|testcases.py|test004|DEBUG|start of Test encryption.test004
+2024-07-12|11:45:35|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-12|11:45:35|testcases.py|test001|DEBUG|start of Test encryption.test001
+2024-07-12|11:45:35|testcases.py|test002|DEBUG|start of Test encryption.test002
+2024-07-12|11:45:35|testcases.py|test003|DEBUG|start of Test encryption.test003
+2024-07-12|11:45:35|testcases.py|test004|DEBUG|start of Test encryption.test004
+2024-07-15|06:43:52|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|06:43:52|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|06:43:52|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|06:43:52|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|06:43:52|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|06:43:52|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|06:44:47|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|06:44:47|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|06:44:47|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|06:44:47|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|06:44:47|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|06:44:47|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|06:46:14|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|06:46:14|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|06:46:14|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|06:46:14|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|06:46:14|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|06:46:14|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|06:55:46|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|06:55:46|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|06:55:46|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|06:55:46|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|06:55:46|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|06:55:46|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|06:56:47|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|06:56:47|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|06:56:47|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|06:56:47|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|06:56:47|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|06:56:47|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|06:59:00|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|06:59:00|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|06:59:00|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|06:59:00|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|06:59:00|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|06:59:00|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|07:24:44|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|07:24:44|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|07:24:44|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|07:24:44|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|07:24:44|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|07:24:44|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|07:27:34|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|07:27:34|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|07:27:34|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|07:27:34|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|07:27:34|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|07:27:34|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|09:46:53|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|09:46:53|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|09:46:53|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|09:46:53|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|09:46:53|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|09:46:53|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|09:47:23|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|09:47:23|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|09:47:23|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|09:47:23|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|09:47:23|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|09:47:23|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|09:50:30|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|09:50:30|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|09:50:30|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|09:50:30|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|09:50:30|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|09:50:30|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|09:52:10|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|09:52:10|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|09:52:10|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|09:52:10|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|09:52:10|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|09:52:10|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|09:59:18|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|09:59:18|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|09:59:18|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|09:59:18|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|09:59:18|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|09:59:18|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|09:59:41|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|09:59:41|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|09:59:41|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|09:59:41|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|09:59:41|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|09:59:41|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|10:00:27|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|10:00:27|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|10:00:27|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|10:00:27|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|10:00:27|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|10:00:27|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|10:01:58|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|10:01:58|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|10:01:58|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|10:01:58|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|10:01:58|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|10:01:58|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|10:03:43|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|10:03:43|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|10:03:43|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|10:03:43|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|10:03:43|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|10:03:43|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|10:17:41|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|10:17:41|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|10:17:41|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|10:17:41|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|10:17:41|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|10:17:41|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|10:19:21|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|10:19:21|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|10:19:21|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|10:19:21|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|10:19:21|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|10:19:21|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|12:48:08|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|12:48:08|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|12:50:50|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|12:50:50|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|12:51:42|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|12:51:42|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|12:52:25|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|12:52:25|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|12:52:25|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|12:52:25|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|12:53:15|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|12:53:15|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|12:53:28|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|12:53:28|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:04:56|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:04:56|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:08:00|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:08:00|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:08:49|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:08:49|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:12:26|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:12:26|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:13:18|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:13:18|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:14:23|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:14:23|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:30:10|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:30:10|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:40:42|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:40:42|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:41:12|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:41:12|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:41:48|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:41:48|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:42:26|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:42:26|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:43:50|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:43:50|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:44:15|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:44:15|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:45:42|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:45:42|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:46:01|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:46:01|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:47:42|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:47:42|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:48:09|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:48:09|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:48:54|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:48:54|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:49:19|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:49:19|testcases.py|test003|DEBUG|start of Test temptests.test003
+2024-07-15|13:51:33|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:51:33|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|13:51:33|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|13:51:33|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|13:51:33|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|13:51:33|testcases.py|test011|DEBUG|start of Test misc.test011
+2024-07-15|13:55:40|testcases.py|<module>|INFO|Test Cases initiated
+2024-07-15|13:55:41|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-15|13:55:41|testcases.py|test001|DEBUG|start of Test RegressionSet.test001
+2024-07-15|13:55:41|onxtcld.py|__init__|ERROR|Failed to Connect : badurl
+2024-07-15|13:55:41|testcases.py|test002|DEBUG|start of Test RegressionSet.test002
+2024-07-15|13:55:41|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-15|13:55:41|testcases.py|test003|DEBUG|start of Test RegressionSet.test003
+2024-07-15|13:55:42|onxtcld.py|__init__|ERROR|Failed to Connect : https://nextcloud189.velocityglobal.co.nz
+2024-07-15|13:55:42|testcases.py|test004|DEBUG|start of Test RegressionSet.test004
+2024-07-15|13:55:43|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-15|13:55:44|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-15|13:55:44|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-15|13:55:44|testcases.py|test005|DEBUG|start of Test RegressionSet.test005
+2024-07-15|13:55:45|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-15|13:55:45|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-15|13:55:46|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-15|13:55:46|testcases.py|test006|DEBUG|start of Test RegressionSet.test006
+2024-07-15|13:55:46|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-15|13:55:47|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-15|13:55:48|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-15|13:55:48|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/fo5nfiqGp5dABpQ
+2024-07-15|13:55:48|onxtcld.py|add_to_csv_file|DEBUG|Adding file to data log.
+2024-07-15|13:55:48|testcases.py|test007|DEBUG|start of Test RegressionSet.test007
+2024-07-15|13:55:49|onxtcld.py|__set_fileid_from_path|ERROR|Could not determine File id.  get_file returned None for path /unknownfolder/unkownfile.pdf
+2024-07-15|13:55:49|testcases.py|test008|DEBUG|start of Test RegressionSet.test008
+2024-07-15|13:55:50|testcases.py|test009|DEBUG|start of Test RegressionSet.test009
+2024-07-15|13:55:50|onxtcld.py|__init__|INFO|Successful Connection to URL
+2024-07-15|13:55:51|testcases.py|test010|DEBUG|start of Test RegressionSet.test010
+2024-07-15|13:55:52|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-15|13:55:53|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-15|13:55:53|testcases.py|test011|DEBUG|start of Test RegressionSet.test011
+2024-07-15|13:55:54|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-15|13:55:55|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-15|13:55:55|testcases.py|test012|DEBUG|start of Test RegressionSet.test012
+2024-07-15|13:55:55|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-15|13:55:56|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-15|13:55:56|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-15|13:55:56|testcases.py|test020|DEBUG|start of Test RegressionSet.test020
+2024-07-15|13:55:57|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-15|13:55:58|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-15|13:55:58|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/E2Faxdq44GX3w7E
+2024-07-15|13:55:58|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-15|13:55:58|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-15|13:55:58|onxtcld.py|__get_pronto_token|DEBUG|url: https://raydemo.velocityglobal.co.nz:8440/pronto/rest/sat.vapiql/login
+2024-07-15|13:55:58|onxtcld.py|__get_pronto_token|DEBUG|api user /password: rayb/zkgbu
+2024-07-15|13:55:58|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:59ad35b11249db837f9443da3c48bb37f23802a8f1cdb8d724eab41f79a3a5d0d178c39cfb9b9c86ce5fa2f5dc0170b2012a89bc010e4be323df0232b07f729b:381e100cb2cd13a5c8ad8ea0648dd9c43c5e9e9a3e6c4038
+2024-07-15|13:55:58|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-15|13:55:58|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-15|13:55:58|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_shared_via_create_share_flag.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>20</seq></ResponseFields></root>
+
+2024-07-15|13:55:58|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-15|13:55:58|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-15|13:55:58|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-15|13:55:58|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-15|13:55:58|onxtcld.py|add_pronto_quicklink|INFO|Sequence 20
+2024-07-15|13:55:58|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-15|13:55:58|testcases.py|test021|DEBUG|start of Test RegressionSet.test021
+2024-07-15|13:55:59|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-15|13:56:00|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-15|13:56:00|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/crTW6EenY929T42
+2024-07-15|13:56:00|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-15|13:56:00|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-15|13:56:00|onxtcld.py|__get_pronto_token|DEBUG|url: https://raydemo.velocityglobal.co.nz:8440/pronto/rest/sat.vapiql/login
+2024-07-15|13:56:00|onxtcld.py|__get_pronto_token|DEBUG|api user /password: rayb/zkgbu
+2024-07-15|13:56:00|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:6ee2d0f5b063889f1349f9306dcf8469c628aca2af358dfe34f0ecba119bd481fe168dbb1ecb063db34a50f24278dee6bf1e5dc99f040d0d0faa5684c05de4c5:5199957ccbd881af7ca6553c51c583d1588802216a1024d9
+2024-07-15|13:56:00|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-15|13:56:01|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-15|13:56:01|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>10</Code><Message>Failed to assign Quicklink</Message></APIResponseStatus><ResponseFields><Response_1>fail: Object Not Determined</Response_1><company></company><object></object><keys></keys><seq>0</seq></ResponseFields></root>
+
+2024-07-15|13:56:01|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 10
+2024-07-15|13:56:01|onxtcld.py|add_pronto_quicklink|ERROR|API Response Error: 10
+2024-07-15|13:56:01|onxtcld.py|add_pronto_quicklink|ERROR|API Response Message: Failed to assign Quicklink
+2024-07-15|13:56:01|testcases.py|test022|DEBUG|start of Test RegressionSet.test022
+2024-07-15|13:56:01|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-15|13:56:02|onxtcld.py|__get_first_public_share|DEBUG|Existing Public share found for file.
+2024-07-15|13:56:02|onxtcld.py|__process_shares|INFO|Existing Public Share Returned https://nextcloud189.velocityglobal.co.nz/index.php/s/G7j7ifB6wDY3EGa
+2024-07-15|13:56:02|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-15|13:56:02|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-15|13:56:02|onxtcld.py|__get_pronto_token|DEBUG|url: https://raydemo.velocityglobal.co.nz:8440/pronto/rest/sat.vapiql/login
+2024-07-15|13:56:02|onxtcld.py|__get_pronto_token|DEBUG|api user /password: rayb/zkgbu
+2024-07-15|13:56:03|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:2eeb5b1fac6762baf3f53b96d4d1e7feb0ca4dab84e297fee0ead2bf4954832bba3d4b9c5755f1f362d1c4d74b0e6d20a9218d2119484740c4e00a6e5cb81d5a:8eb0c69779c4d94953ab2ed7cbf1a241114a57f87f913ad6
+2024-07-15|13:56:03|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-15|13:56:03|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-15|13:56:03|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_shared_via_public_keyword.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>30</seq></ResponseFields></root>
+
+2024-07-15|13:56:03|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-15|13:56:03|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-15|13:56:03|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-15|13:56:03|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-15|13:56:03|onxtcld.py|add_pronto_quicklink|INFO|Sequence 30
+2024-07-15|13:56:03|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-15|13:56:03|testcases.py|test023|DEBUG|start of Test RegressionSet.test023
+2024-07-15|13:56:03|onxtcld.py|__get_first_public_share|DEBUG|Getting First Public Share
+2024-07-15|13:56:04|onxtcld.py|__get_first_public_share|DEBUG|No public shares found for file.
+2024-07-15|13:56:04|onxtcld.py|add_pronto_quicklink|INFO|Create Quicklink via API
+2024-07-15|13:56:04|onxtcld.py|__get_pronto_token|DEBUG|Getting Pronto Authorization Token
+2024-07-15|13:56:04|onxtcld.py|__get_pronto_token|DEBUG|url: https://raydemo.velocityglobal.co.nz:8440/pronto/rest/sat.vapiql/login
+2024-07-15|13:56:04|onxtcld.py|__get_pronto_token|DEBUG|api user /password: rayb/zkgbu
+2024-07-15|13:56:04|onxtcld.py|__get_pronto_token|DEBUG|Token Successfully Retrieved : rayb:*:13dbd9f9a80b44ddaf2cb4cc292697aa285379ee4e86d2f3ac4631ca5c843536a0189964bb5233b350bc6f92ea36320f2bd9aae37e194e3a02253f2e40c0de84:452b38b3e61ec729f31fdaad0e0be4009c93d9bb5574c5ea
+2024-07-15|13:56:04|onxtcld.py|add_pronto_quicklink|DEBUG|Calling Pronto API
+2024-07-15|13:56:04|onxtcld.py|add_pronto_quicklink|DEBUG|Call Successful
+2024-07-15|13:56:04|onxtcld.py|add_pronto_quicklink|DEBUG|<?xml version="1.0" encoding="UTF-8"?>
+<root><APIResponseStatus><Code>0</Code><Message>OK</Message></APIResponseStatus><ResponseFields><Response_1>success: /Documents/PythonAppTestCases/C0002_no_share.pdf</Response_1><company>sat</company><object>deb-master</object><keys>C0002</keys><seq>40</seq></ResponseFields></root>
+
+2024-07-15|13:56:04|onxtcld.py|add_pronto_quicklink|DEBUG|API Response Code: 0
+2024-07-15|13:56:04|onxtcld.py|add_pronto_quicklink|INFO|Company sat
+2024-07-15|13:56:04|onxtcld.py|add_pronto_quicklink|INFO|Pronto Object : deb-master
+2024-07-15|13:56:04|onxtcld.py|add_pronto_quicklink|INFO|Keys C0002
+2024-07-15|13:56:04|onxtcld.py|add_pronto_quicklink|INFO|Sequence 40
+2024-07-15|13:56:04|onxtcld.py|add_pronto_quicklink|INFO|Quicklinks API Successful
+2024-07-15|13:56:04|testcases.py|test001|DEBUG|start of Test misc.test001
+2024-07-15|13:56:04|testcases.py|test002|DEBUG|start of Test misc.test002
+2024-07-15|13:56:04|testcases.py|test003|DEBUG|start of Test misc.test003
+2024-07-15|13:56:04|testcases.py|test010|DEBUG|start of Test misc.test010
+2024-07-15|13:56:04|testcases.py|test011|DEBUG|start of Test misc.test011
