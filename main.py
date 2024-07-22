@@ -206,7 +206,7 @@ def setup_to_log(args):
     applog.info('Config datalog:{}'.format(global_datalog))
     applog.info('Config Pronto URL:{}'.format(global_prontourl))
     applog.info('Config Pronto API User:{}'.format(global_prontoapiuser))
-    applog.info('Config Pronto API Password:{}'.format(global_prontoapipassword))
+    #applog.info('Config Pronto API Password:{}'.format(global_prontoapipassword))
     # Users
     for udict in global_users:
         applog.info('Config User :{}/{}'.format(udict['user'], udict['password']))

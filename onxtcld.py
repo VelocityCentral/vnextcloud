@@ -510,7 +510,8 @@ class NxtCld:
         applog.debug('Getting Pronto Authorization Token')
         url = apiurl + "/pronto/rest/" + apiwebresource + "/login"
         applog.debug('url: {}'.format(url))
-        applog.debug('api user /password: {}/{}'.format(apiuser,apipassword))
+        #applog.debug('api user /password: {}/{}'.format(apiuser,apipassword))
+        applog.debug('api user /password: {}/{}'.format(apiuser,"Password not shown"))
         headers = {
             'X-Pronto-Username': apiuser,
             'X-Pronto-Password': apipassword,
